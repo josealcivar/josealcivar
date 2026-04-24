@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josealcivar&label=Profile%20views&color=0e75b6&style=flat" alt="josealcivar" /> </p>
 
+![Data Science](https://img.shields.io/badge/Data_Science-0C447C?style=flat&logoColor=white)
+![AI Engineering](https://img.shields.io/badge/AI_Engineering-3C3489?style=flat&logoColor=white)
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+![Python](https://img.shields.io/badge/Python-185FA5?style=flat&logo=python&logoColor=white)
+
+
 - 🔭 I’m currently working on [Portfolio personal](https://joseandev.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://joseandev.netlify.app/](https://joseandev.netlify.app/)
