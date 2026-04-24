@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm José André. - joseandev</h1>
-<h3 align="center">A passionate fullstack developer from Guayaquil - Ecuador 🇪🇨</h3>
+
+> Data Engineer / Data Analyst · Python · FullStack web · 📍 Guayaquil, Ecuador  🇪🇨
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josealcivar&label=Profile%20views&color=0e75b6&style=flat" alt="josealcivar" /> </p>
 
