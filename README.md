@@ -5,7 +5,8 @@
 
 ![Data Science](https://img.shields.io/badge/Data_Science-0C447C?style=flat&logoColor=white)
 ![AI Engineering](https://img.shields.io/badge/AI_Engineering-3C3489?style=flat&logoColor=white)
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 ![Python](https://img.shields.io/badge/Python-185FA5?style=flat&logo=python&logoColor=white)
 
 
@@ -17,8 +18,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://twitter.com/joseandre19" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joseandre19" height="30" width="40" />
+  </a>
+  
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jose-alcivar-garcia/)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joseandre157/)
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://twitter.com/joseandre19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joseandre19" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jose-alcivar-garcia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jose-alcivar-garcia/" height="30" width="40" /></a>
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
 <a href="https://instagram.com/joseandre157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/joseandre157/" height="30" width="40" /></a>
 </p>
 
