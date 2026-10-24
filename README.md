@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Business Data Analyst** at **Banco Guayaquil** 🏦, connecting data with business needs. I analyze information, build KPIs and deliver recommendations that help teams make better data-driven decisions.
+I'm a **Business Data Analyst** & **FullStack Developer** 🏦, connecting data with business needs. I analyze information, build KPIs and deliver recommendations that help teams make better data-driven decisions.
 
 - 📊 **Analytics:** KPIs, business insights and predictive models for customer acquisition
 - 🛠️ **Data Engineering:** structured and delivered business data with SQL Server, Python, Spark and Databricks
