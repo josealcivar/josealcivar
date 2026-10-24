@@ -2,7 +2,7 @@
 
 # Hi, I'm José André Alcívar 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0E75B6&center=true&vCenter=true&width=650&lines=Business+Data+Analyst+%40+Banco+Guayaquil;Data+Engineering+%7C+Python+%7C+Spark+%7C+Databricks;Full+Stack+Developer+%7C+React+%7C+Next.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0E75B6&center=true&vCenter=true&width=650&lines=Business+Data+Analyst+%40+FullStack+Developer;Data+Engineering+%7C+Python+%7C+Spark+%7C+Databricks;Full+Stack+Developer+%7C+React+%7C+Next.js" alt="Typing SVG" />
 
 **Turning data into business decisions** · 📍 Guayaquil, Ecuador 🇪🇨
 
